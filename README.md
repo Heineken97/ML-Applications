@@ -1,7 +1,7 @@
 # ML-Applications 📘
 
 A curated collection of Machine Learning projects covering a variety of real-world applications.  
-This repository is designed as a professional portfolio and learning resource, showcasing different algorithms, problem-solving approaches, and domains. It is intended for the data science community, interview preparation, and personal development.
+This repository is designed as a professional portfolio and learning resource, showcasing different algorithms, problem-solving approaches, and domains. 
 
 ---
 
